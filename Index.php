@@ -6,6 +6,11 @@
     <title>Database</title>
 </head>
 <body>
+<<<<<<< HEAD
 
+=======
+    <p>กุ๊กๆ ไก่น้อย</p>
+    
+>>>>>>> a7f0758fb94ac7579df9b155050c2de8dc87c6fd
 </body>
 </html>
