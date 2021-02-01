@@ -46,7 +46,7 @@
 					echo '<td>' . $row['LastName'] . '</td>';
 					echo '<td>' . $row['Age'] . '</td>';
 					echo '<td>' . $row['Gender'] . '</td>';
-					echo '<td>' . '<img src="./avatar/'.$row['Photo'].'" width = "25">'. '</td>';
+					echo '<td>' . '<img src="'.$row['Photo'].'" width = "25">'. '</td>';
 					echo '<td><a href="editForm.php?id='.$id.'">Edit</a> ';
 					echo '<a href="delete.php?id='.$id.'">Delete</a></td>';
 					echo "</tr>";
