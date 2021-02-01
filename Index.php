@@ -6,6 +6,7 @@
     <title>ทดสอบการดึงข้อมูลจาก Database </title>
 </head>
 <body>
+    <p>กุ๊กๆ ไก่น้อย</p>
     
 </body>
 </html>
