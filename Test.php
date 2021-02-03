@@ -7,7 +7,7 @@
 </head>
 <body>
 
-    <p>กุ๊กๆ ไก่น้อย</p>
+    <p>ภราดร บุญร่วม</p>
 
     <?php
 		// connect to the database
